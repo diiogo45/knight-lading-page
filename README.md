@@ -2,11 +2,19 @@
 Landing Page feita tendo como intuinto a pratica de HTML, CSS e deixar o site responsivo.
 
 
-Mobile:
 
-![1](https://github.com/diiogo45/knight-lading-page/assets/88461069/423d8b2e-7132-4a05-ad4d-41f4ead3faac)
-![2](https://github.com/diiogo45/knight-lading-page/assets/88461069/cbd75f6e-6248-490c-9e5a-d0e1673dfd1a)
-![3](https://github.com/diiogo45/knight-lading-page/assets/88461069/df3ebce1-ada2-49e1-9485-9320ca0fe28e)
+
+### 📷 Prints:
+
+#### Mobile:
+<img src="https://i.ibb.co/Hq4T8jp/img01.png" width="30%"></img> <img src="https://i.ibb.co/86Qn9tf/img02.png" width="30%"></img> <img src="https://i.ibb.co/XZvM1hf/img03.png" width="30%"></img> 
+
+
+
+#### Tablets:
+<img src="https://ibb.co/GvbNyKf" width="45%"></img> <img src="https://user-images.githubusercontent.com/68782453/118216614-3bdf4680-b44a-11eb-97c4-82884539e5c8.png" width="45%"></img> 
+
+
 
 
 
