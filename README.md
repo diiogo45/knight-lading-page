@@ -1,6 +1,10 @@
 # knight-lading-page
 Landing Page feita tendo como intuinto a pratica de HTML, CSS e deixar o site responsivo.
 
+### 💻 Tecnologias:
+As seguintes tecnologias foram usadas na construção do projeto:
+- HTML
+- CSS
 
 
 
