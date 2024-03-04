@@ -12,8 +12,7 @@ Landing Page feita tendo como intuinto a pratica de HTML, CSS e deixar o site re
 
 
 #### Tablets:
-<img src="https://i.ibb.co/g9PhZVq/T-01.png" width="45%"></img> <img src="https://ibb.co/prwVJGs" width="45%"></img> <img src="https://i.ibb.co/P9fTvCk/T-03.png" width="45%"></img> 
-
+<img src="https://i.ibb.co/g9PhZVq/T-01.png" width="45%"></img> <img src="https://i.ibb.co/M5SwMWj/T-02.png" width="45%"></img> <img src="https://i.ibb.co/P9fTvCk/T-03.png" width="45%"></img> 
 
 
 
